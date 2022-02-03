@@ -4,6 +4,7 @@
 * Create class hierarchy, variables and functions with inheritance,
 * abstract class, overriding, and private vs. public variables.
 * :C
+* Farid is the best friend 
 */
 
 import kotlin.math.PI
