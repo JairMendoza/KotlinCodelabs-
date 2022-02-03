@@ -3,6 +3,7 @@
 * Shows how to:
 * Create class hierarchy, variables and functions with inheritance,
 * abstract class, overriding, and private vs. public variables.
+* :C
 */
 
 import kotlin.math.PI
