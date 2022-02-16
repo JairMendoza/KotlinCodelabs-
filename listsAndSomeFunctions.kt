@@ -14,4 +14,13 @@ fun main() {
     // Use the contains() method
     println("Contains 4? ${numbers.contains(4)}")
     println("Contains 7? ${numbers.contains(7)}")
+
+    val colors = listOf("green", "orange", "blue")
+  	println("Reversed list: ${colors.reversed()}")
+	println("List: $colors")
+    println("Sorted list: ${colors.sorted()}")
+    val oddNumbers = listOf(5, 3, 7, 1)
+    println("List: $oddNumbers")
+    println("Sorted list: ${oddNumbers.sorted()}")
+    
 }
